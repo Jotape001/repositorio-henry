@@ -1,0 +1,10 @@
+* Variables
+	Es un almacen, donde se guardan datos.
+* Strings
+	Es un tipo de dato cadena, de varios caracteres.
+* Funciones (argumentos, `return`)
+	las funciones poseen argumente, que pueden ser utilizados, y tambien la misma funcion puede retornar un valor.
+* Declaraciones `if`
+	Es una instruccion que evalua una expresion condicional.
+* Valores booleanos (`true`, `false`)
+	Es un tipo de dato que solo puede tener dos valores, TRUE(verdadero) y FALSE(falso)
